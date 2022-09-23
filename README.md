@@ -16,12 +16,11 @@
 ![image](https://user-images.githubusercontent.com/111654603/191885865-7ba2b4bf-1d0f-4d85-b654-32e32366aa6f.png)
 
 
-This is a "readMe Generator" that you may run it in your VS Code in order to creat a readMe.md including details about your project.
+This is a "readMe Generator" that you may run it in your VS Code in order to creat a readMe.md including details about your project.  
 You may run this generator with "node index.js" in your terminal.
 
-Please refer to this video for the use.
+Please refer to <p>(<a href="[#readme-top](https://drive.google.com/file/d/1_r06NBvAz2pY5t-uCWThvgw6xYDb131d/view)">this</a>)</p> video for the use.
 
-[Untitled_ Sep 22, 2022 10_07 PM.webm](https://user-images.githubusercontent.com/111654603/191886326-d098d569-3bf0-4c32-9664-63b620710222.webm)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
